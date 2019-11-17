@@ -1,0 +1,9 @@
+bases:
+- node-exporter
+- blackbox-exporter
+- prometheus
+- grafana-image-renderer
+- grafana
+
+resources:
+- ingress.yaml

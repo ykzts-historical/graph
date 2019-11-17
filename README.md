@@ -1,0 +1,5 @@
+# Graph
+
+## License
+
+[MIT](LICENSE)
